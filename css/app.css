@@ -5860,16 +5860,14 @@ button.close {
   font-size: 14px; }
   .footer-cols ul {
     list-style: none; }
-
-li:first-child {
-  font-size: 1.2rem;
-  padding-bottom: 0.5rem;
-  border-bottom: 1px solid #444;
-  margin-bottom: 1rem; }
-
-.footer-bottom {
-  background: var(--primary-color);
-  color: #fff;
-  padding: 1.3rem; }
+  .footer-cols li:first-child {
+    font-size: 1.2rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #444;
+    margin-bottom: 1rem; }
+  .footer-cols .footer-bottom {
+    background: var(--primary-color);
+    color: #fff;
+    padding: 1.3rem; }
 
 /*# sourceMappingURL=app.css.map */
