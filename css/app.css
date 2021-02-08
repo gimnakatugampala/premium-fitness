@@ -5872,6 +5872,7 @@ button.close {
 
 @media (max-width: 600px) {
   .footer-cols {
-    grid-template-columns: repeat(1, 1fr); } }
+    grid-template-columns: repeat(1, 1fr);
+    text-align: center; } }
 
 /*# sourceMappingURL=app.css.map */
